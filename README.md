@@ -14,7 +14,7 @@ Log into github desktop on the lab computer
 
 After you log in, click on the tab that says "git" and click "save." This will make git use your email address when recording the commits. You can enter a different email address before you hit save if you don't want your email included in the repository history.
 
-Accept the assignment link from: https://classroom.github.com/a/cnC5Gntn
+Accept the assignment link from: https://classroom.github.com/a/v3gkMFH3
 
 Clone the repository you created by accepting the assignment. The repository name will be NYU-IEP-2022-3-Classroom/lab4-data-repository-**your github username** Make sure you include your username (don't clone the template repository; you won't be able to push changes later)
 
